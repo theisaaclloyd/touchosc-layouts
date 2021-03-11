@@ -1,2 +1,5 @@
 # touchosc-layouts
-TouchOSC Templates for controlling ATEM software
+TouchOSC Templates for controlling:
+- ATEM software
+- MIDI aplications
+- ect.
